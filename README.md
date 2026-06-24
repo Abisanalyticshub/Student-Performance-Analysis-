@@ -34,4 +34,5 @@ This project analyzes student performance data using Power BI and Excel. The obj
 ## Dashboard Preview
 
 See the uploaded dashboard screenshot for a visual overview of the analysis.
+The interactive dashboard was developed in Power BI and is included in this repository as a .pbix file.
 
