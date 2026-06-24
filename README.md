@@ -35,7 +35,7 @@ This project analyzes student performance data using Power BI and Excel. The obj
 
 ### Dashboard Page 1
 
-![Dashboard Page 1](Dashboard%2001.png)
+![Dashboard Page 1](Dachboard%2001.png)
 
 ### Dashboard Page 2
 
